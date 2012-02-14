@@ -1,0 +1,11 @@
+Notes on Universal Acceptance tool for Perl
+-------------------------------------------
+
+Please read this in conjunction with the README file.
+
+DEPENDENCIES:
+
+This library is dependent upon the Net::DNS library, which is available
+from http://www.net-dns.org/ or CPAN; Digest::MD5 and libwww-perl
+(specifically LWP::Simple), also available from CPAN.
+
